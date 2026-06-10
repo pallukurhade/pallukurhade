@@ -22,5 +22,5 @@ fred-dashboard        — TypeScript dashboard for economic data visualization
 
 ## 📫 Let's connect
 
-💼 LinkedIn: linkedin.com/in/pallavi-kurhade
+💼 linkedin.com/in/pallavi-kurhade
 📧 pallavikurhade1@gmail.com
